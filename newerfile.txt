@@ -2,6 +2,11 @@ even newer file
 
 Sherpaherpa
 
+<<<<<<< HEAD
 SHerpa, denne er i master
+=======
+Denne er i roflcopter
+>>>>>>> Roflcopter
 
 Denne linja finnes kun i Rofl-branchen
+
