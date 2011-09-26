@@ -1,1 +1,4 @@
 Dette er en linje i en git-styrt mappe
+
+
+Denne skal bare være i Rofl
