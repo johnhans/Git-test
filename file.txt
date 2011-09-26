@@ -1,0 +1,1 @@
+Dette er en linje i en git-styrt mappe
